@@ -59,7 +59,7 @@ export default async function ProductPage({
                   Rs.{data.price}
                 </span>
                 <span className="mb-0.5 text-red-500 line-through">
-                  Rs. {data.price + 40}
+                  Rs. {data.price + 400}
                 </span>
               </div>
 
