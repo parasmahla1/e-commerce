@@ -65,7 +65,7 @@ export default async function CategotyPage({
                   </p>
                 </div>
                 <p className="text-sm font-medium text-gray-900">
-                  Rs.{product.price}
+                  ${product.price}
                 </p>
               </div>
             </div>

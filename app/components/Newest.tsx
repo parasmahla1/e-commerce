@@ -46,7 +46,7 @@ export default async function Newest() {
                                         <p className="mt-1 text-sm text-gray-500">{product.categoryName}</p>
 
                                     </div>
-                                    <p className="text-sm font-medium text-gray-900">Rs.{product.price}</p>
+                                    <p className="text-sm font-medium text-gray-900">${product.price}</p>
                                 </div>
                             </div>
                         ))
